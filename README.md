@@ -1,7 +1,7 @@
 # openGL_practice
 ## 概要
 
-レッツゴートゥーOpenGL!  
+レッツゴートゥーOpenGL!
 
 ## 課題
-1.https://wgld.org/d/webgl/
+1.webgl https://wgld.org/d/webgl/
